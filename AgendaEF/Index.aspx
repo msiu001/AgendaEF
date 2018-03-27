@@ -105,15 +105,20 @@
 
                 <div class="form-group">
                     <div class="col-md-4">
-                        <asp:Button ID="btnAddID" runat="server" CssClass="btn btn-info" Text="Save" />
+                        <asp:Button ID="btnSaveID" runat="server" CssClass="btn btn-info" Text="Save" OnClick="btnSaveID_Click" />
                         <asp:Button ID="btnDeleteID" runat="server" CssClass="btn btn-danger" Text="Delete" />
-                        <asp:Button ID="btnCanselID" runat="server" CssClass="btn btn-basic" Text="Cancel" />
+                        <asp:Button ID="btnCancelID" runat="server" CssClass="btn btn-basic" Text="Cancel" OnClick="btnCancelID_Click" />
                     </div>
                 </div>
             </div>
         </div>
      
-
+        <div class="container">
+            <div class="alert alert-success alert-dismissible">
+                <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                <strong>Contact added successfully</strong>
+            </div>
+        </div>
         
         <div class="container">
             <div class="panel panel-info">

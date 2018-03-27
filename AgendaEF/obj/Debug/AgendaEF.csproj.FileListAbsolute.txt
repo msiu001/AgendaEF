@@ -32,3 +32,7 @@ C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\15 ASP.NET Entity Framework Insert 
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\15 ASP.NET Entity Framework Insert Update Delete\AgendaEF\AgendaEF\obj\Debug\AgendaEF.csprojResolveAssemblyReference.cache
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\15 ASP.NET Entity Framework Insert Update Delete\AgendaEF\AgendaEF\obj\Debug\AgendaEF.dll
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\15 ASP.NET Entity Framework Insert Update Delete\AgendaEF\AgendaEF\obj\Debug\AgendaEF.pdb
+C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\15 ASP.NET Entity Framework Insert Update Delete\AgendaEF\AgendaEF\bin\EntityFramework.dll
+C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\15 ASP.NET Entity Framework Insert Update Delete\AgendaEF\AgendaEF\bin\EntityFramework.SqlServer.dll
+C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\15 ASP.NET Entity Framework Insert Update Delete\AgendaEF\AgendaEF\bin\EntityFramework.xml
+C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\15 ASP.NET Entity Framework Insert Update Delete\AgendaEF\AgendaEF\bin\EntityFramework.SqlServer.xml
